@@ -1,0 +1,7 @@
+
+Location of files:
+
+UNIX : /etc/hosts
+Windows: C:\Windows\System32\drivers\etc
+
+Make Sure the script has admin/root access.
